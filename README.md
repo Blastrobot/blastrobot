@@ -17,7 +17,6 @@ Here's the [music](https://open.spotify.com/playlist/37i9dQZF1DWWQRwui0ExPn?si=9
 Will keep updating this *profile*, till then I add some **utility** to it by adding an HTML template 😎
 
 ```html
-{
 <!DOCTYPE html>
 <html lang="en">
   <head>

@@ -1,6 +1,6 @@
 # Blastrobot
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome!;Willkommen!;¡Bienvenido!)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome!;Willkommen!;¡Bienvenido!)](https://git.io/typing-svg)
 
 Currently doing a **Full-Stack Development** Bootcamp, coming from Tenerife 🏝 based in Berlin at the moment.
 

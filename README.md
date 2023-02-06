@@ -1,6 +1,6 @@
 # Blastrobot
 
-## Welcome to my Github
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 Currently doing a **Full-Stack Development** Bootcamp, coming from Tenerife 🏝 based in Berlin at the moment.
 

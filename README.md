@@ -25,7 +25,7 @@ Currently doing a **Full-Stack Development** Bootcamp, coming from Tenerife 🏝
 
   <img src="https://icongr.am/devicon/angularjs-original.svg?size=32" alt="angular"/>
   <img src="https://icongr.am/devicon/typescript-original.svg?size=32" alt="typescript"/>
-  <img src="https://user-images.githubusercontent.com/114672545/217126375-e5adc148-20dc-4c43-8456-290a7bcc45d1.svg?size=32" alt=""/>
+  <img src="https://user-images.githubusercontent.com/114672545/217126375-e5adc148-20dc-4c43-8456-290a7bcc45d1.svg" width="32px" height="32px" alt="solidity"/>
 
   
 Here's the [music](https://open.spotify.com/playlist/37i9dQZF1DWWQRwui0ExPn?si=9df1b36c31594f3f) I listen to while coding.

@@ -4,11 +4,7 @@
 
 Currently doing a **Full-Stack Development** Bootcamp, coming from Tenerife 🏝 based in Berlin at the moment.
 
-> #### Been fighting these 3 lately
-> 
-> - **HTML5**
-> - **CSS3**
-> - **Javascript**
+> #### Technologies I've used:
 
 <div align=center>
   <img src="https://icongr.am/devicon/html5-original.svg?size=32&color=currentColor" alt="html5"/>

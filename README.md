@@ -13,8 +13,9 @@ Currently doing a **Full-Stack Development** Bootcamp, coming from Tenerife 🏝
 Also started Bootstrap 😵 but it's actually fun.
 
 <div align=center>
-<img src="https://user-images.githubusercontent.com/114672545/217121527-08df5bdc-f610-49d8-a9dc-58c67fe3101a.svg" alt="visual studio code" width="20px" height="20px"/>
-<img src="https://icongr.am/devicon/css3-original.svg?size=32&color=currentColor" alt="css3"/>
+  <img src="https://icongr.am/devicon/html5-original.svg?size=32&color=currentColor" alt="html5"/>
+  <img src="https://icongr.am/devicon/css3-original.svg?size=32&color=currentColor" alt="css3"/>
+  <img src="https://icongr.am/devicon/javascript-original.svg?size=32&color=currentColor" alt="javascript"/>
 </div>
   
 Here's the [music](https://open.spotify.com/playlist/37i9dQZF1DWWQRwui0ExPn?si=9df1b36c31594f3f) I listen to while coding.

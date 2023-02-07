@@ -4,7 +4,7 @@
 
 Currently doing a **Full-Stack Development** Bootcamp, coming from Tenerife 🏝 based in Berlin at the moment.
 
-#### Technologies I've used:
+#### <p align=center>Technologies I've used:</p>
 
 
 <div align=center>
@@ -20,7 +20,7 @@ Currently doing a **Full-Stack Development** Bootcamp, coming from Tenerife 🏝
 </div>
 
 
-#### Technologies I want to learn:
+#### <p align=center>Technologies I want to learn:</p>
 
 
 <div align=center>

@@ -14,6 +14,12 @@ Currently doing a **Full-Stack Development** Bootcamp, coming from Tenerife 🏝
   <img src="https://icongr.am/devicon/html5-original.svg?size=32&color=currentColor" alt="html5"/>
   <img src="https://icongr.am/devicon/css3-original.svg?size=32&color=currentColor" alt="css3"/>
   <img src="https://icongr.am/devicon/javascript-original.svg?size=32&color=currentColor" alt="javascript"/>
+  <img src="https://icongr.am/devicon/bootstrap-plain-wordmark.svg?size=32&color=currentColor" alt="bootstrap"/>
+  <img src="https://icongr.am/simple/tailwindcss.svg?size=32&color=cd8fff&colored=false" alt="tailwindcss"/>
+  <img src="https://icongr.am/devicon/react-original.svg?size=32&color=cd8fff" alt="react"/>
+  <img src="" alt=""/>
+  <img src="https://icongr.am/devicon/python-original.svg?size=32&color=cd8fff" alt="python"/>
+  <img src="" alt=""/>
 </div>
   
 Here's the [music](https://open.spotify.com/playlist/37i9dQZF1DWWQRwui0ExPn?si=9df1b36c31594f3f) I listen to while coding.

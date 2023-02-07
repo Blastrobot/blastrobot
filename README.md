@@ -10,8 +10,6 @@ Currently doing a **Full-Stack Development** Bootcamp, coming from Tenerife 🏝
 > - **CSS3**
 > - **Javascript**
 
-Also started Bootstrap 😵 but it's actually fun.
-
 <div align=center>
   <img src="https://icongr.am/devicon/html5-original.svg?size=32&color=currentColor" alt="html5"/>
   <img src="https://icongr.am/devicon/css3-original.svg?size=32&color=currentColor" alt="css3"/>

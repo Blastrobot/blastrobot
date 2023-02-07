@@ -12,9 +12,11 @@ Currently doing a **Full-Stack Development** Bootcamp, coming from Tenerife 🏝
 
 Also started Bootstrap 😵 but it's actually fun.
 
+<div align=center>
 <img src="https://user-images.githubusercontent.com/114672545/217121527-08df5bdc-f610-49d8-a9dc-58c67fe3101a.svg" alt="visual studio code" width="20px" height="20px"/>
 <img src="https://icongr.am/devicon/css3-original.svg?size=64&color=currentColor" alt="css3"/>
-
+</div>
+  
 Here's the [music](https://open.spotify.com/playlist/37i9dQZF1DWWQRwui0ExPn?si=9df1b36c31594f3f) I listen to while coding.
 
 Will keep updating this *profile*, till then I add some **utility** to it by adding an HTML template 😎

@@ -6,6 +6,7 @@ Currently doing a **Full-Stack Development** Bootcamp, coming from Tenerife 🏝
 
 #### Technologies I've used:
 
+
 <div align=center>
   <img src="https://icongr.am/devicon/html5-original.svg?size=32&color=currentColor" alt="html5"/>
   <img src="https://icongr.am/devicon/css3-original.svg?size=32&color=currentColor" alt="css3"/>
@@ -17,6 +18,15 @@ Currently doing a **Full-Stack Development** Bootcamp, coming from Tenerife 🏝
   <img src="https://icongr.am/devicon/python-original.svg?size=32&color=currentColor" alt="python"/>
   <img src="https://icongr.am/simple/flask.svg?size=32&color=fbcf32&colored=false" alt="flask"/>
 </div>
+
+
+#### Technologies I want to learn:
+
+
+  <img src="https://icongr.am/devicon/angularjs-original.svg?size=32" alt="angular"/>
+  <img src="https://icongr.am/devicon/typescript-original.svg?size=32" alt="typescript"/>
+  <img src="https://user-images.githubusercontent.com/114672545/217126375-e5adc148-20dc-4c43-8456-290a7bcc45d1.svg?size=32" alt=""/>
+
   
 Here's the [music](https://open.spotify.com/playlist/37i9dQZF1DWWQRwui0ExPn?si=9df1b36c31594f3f) I listen to while coding.
 

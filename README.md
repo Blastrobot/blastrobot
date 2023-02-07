@@ -12,8 +12,8 @@ Currently doing a **Full-Stack Development** Bootcamp, coming from Tenerife 🏝
 
 Also started Bootstrap 😵 but it's actually fun.
 
-<img src="https://user-images.githubusercontent.com/114672545/217121527-08df5bdc-f610-49d8-a9dc-58c67fe3101a.svg" alt="" width="20px" height="20px"/>
-![javascript](https://user-images.githubusercontent.com/114672545/217123209-e80ec7e5-8ee4-43bc-9f6d-d1fba985f1aa.svg)
+<img src="https://user-images.githubusercontent.com/114672545/217121527-08df5bdc-f610-49d8-a9dc-58c67fe3101a.svg" alt="visual studio code" width="20px" height="20px"/>
+<img src="https://user-images.githubusercontent.com/114672545/217123209-e80ec7e5-8ee4-43bc-9f6d-d1fba985f1aa.svg" alt="js" width="20px" height="20px"/>
 
 Here's the [music](https://open.spotify.com/playlist/37i9dQZF1DWWQRwui0ExPn?si=9df1b36c31594f3f) I listen to while coding.
 

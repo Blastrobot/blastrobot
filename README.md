@@ -2,9 +2,9 @@
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=100&color=C6D4FF&background=FFFFFF00&center=true&multiline=true&width=1000&height=100&lines=Carlos+J.+Vilca;Web+Development;Welcome!+Willkommen!+%C2%A1Bienvenido!🥳)](https://git.io/typing-svg)
 
-Currently doing a **Full-Stack Development** Bootcamp, coming from Tenerife 🏝 based in Berlin at the moment.
+**Evolving Full-Stack Developer**, coming from Tenerife 🏝 based in Berlin at the moment.
 
-#### <p align=center>Technologies I've used:</p>
+#### <p align=center>Technologies I've been working with:</p>
 
 
 <div align=center>
@@ -20,7 +20,7 @@ Currently doing a **Full-Stack Development** Bootcamp, coming from Tenerife 🏝
 </div>
 
 
-#### <p align=center>Technologies I want to learn:</p>
+#### <p align=center>Technologies I'm learning:</p>
 
 
 <div align=center>

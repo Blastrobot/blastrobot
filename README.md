@@ -1,4 +1,6 @@
-# <p align=center>➰Blastrobot➰</p>
+<img src="Rainbow.gif" width="100%">
+
+# <p align=center>Blastrobot</p>
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=100&color=C6D4FF&background=FFFFFF00&center=true&multiline=true&width=1000&height=100&lines=Carlos+J.+Vilca;Web+Development;Welcome!+Willkommen!+%C2%A1Bienvenido!🥳)](https://git.io/typing-svg)
 
@@ -34,3 +36,5 @@
 <a href="mailto:carlosjcv94@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
 
 Here's the [music](https://open.spotify.com/playlist/37i9dQZF1DWWQRwui0ExPn?si=9df1b36c31594f3f) I listen to while coding.
+
+<img src="Rainbow.gif" width="100%">

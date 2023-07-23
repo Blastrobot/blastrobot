@@ -8,7 +8,6 @@
 
 <p>Technologies I've been working with:</p>
 
-
 <div align=center>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" height="40px" alt="html"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" height="40px" alt="css"/>
@@ -35,6 +34,9 @@
 <a href="https://linkedin.com/in/blastronaut" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:carlosjcv94@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
 
-Here's the [music](https://open.spotify.com/playlist/37i9dQZF1DWWQRwui0ExPn?si=9df1b36c31594f3f) I listen to while coding.
+### Vibing to:
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=1171882181&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=true">
+</p>
 
 <img src="Rainbow.gif" width="100%">

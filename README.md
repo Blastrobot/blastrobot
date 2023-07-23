@@ -39,4 +39,4 @@
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=1171882181&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false">
 </p>
 
-<img src="Rainbow.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&reversal=true&section=footer&color=0:d173c7,100:5545f9">

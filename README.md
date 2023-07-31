@@ -37,7 +37,7 @@
 ### Vibing to:
 <p align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=1171882181&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false">
-  <br><br><br><br><br><br>
+  <br>
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWRzYmZsOWpsdG92YTd1dzB1MDQzMzIyMWI4MHU0em9ldnN4ajQ5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="320" height="260">
 </p>
 

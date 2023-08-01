@@ -1,6 +1,6 @@
 <img src="Rainbow.gif" width="100%">
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=100&color=C6D4FF&background=FFFFFF00&center=true&multiline=true&width=1000&height=100&lines=Carlos+J.+Vilca;Web+Development;Welcome!+Willkommen!+%C2%A1Bienvenido!🥳)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=100&color=C6D4FF&background=FFFFFF00&center=true&multiline=true&width=1000&height=100&lines=Carlos+Vilca;Software+Development;Welcome!+Willkommen!+%C2%A1Bienvenido!🥳)](https://git.io/typing-svg)
 
 <div align=center>
 

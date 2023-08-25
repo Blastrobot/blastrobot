@@ -17,7 +17,7 @@
   <a href="https://react.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px" height="40px" alt="react"/></a>
   <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px" height="40px" alt="python"/></a>
 <!--   <img src="https://icongr.am/simple/flask.svg?size=40&color=cd8fff&colored=false" alt="flask"/> -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40px" height="40px"/>
+  <a href="https://flask.palletsprojects.com/en/2.3.x/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40px" height="40px"/></a>
 </div>
 
 <p>Technologies I'm learning:</p>

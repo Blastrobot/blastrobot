@@ -24,7 +24,7 @@
 <div align=center>
   <a href="https://angular.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40px" height="40px" alt="angular"/></a>
   <a href="https://www.typescriptlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40px" height="40px" alt="typescript"/></a>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="40px" height="40px" alt="solidity"/>
+  <a href="https://soliditylang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="40px" height="40px" alt="solidity"/></a>
 </div>
 
 ### Connect with me:

@@ -31,6 +31,7 @@
 <div align=center>
   <a href="https://nodejs.org/en"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40px" height="40px" alt="nodejs"/></a>
   <a href="https://expressjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40px" height="40px" alt="express"/></a>
+  <a href="https://www.mongodb.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="40px" height="40px" alt="mongodb"></a> 
   <a href="https://nextjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40px" height="40px" alt="nextjs"/></a>
   <a href="https://soliditylang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="40px" height="40px" alt="solidity"/></a>
 </div>

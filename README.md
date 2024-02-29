@@ -12,7 +12,9 @@
   <a href="https://html.spec.whatwg.org/multipage/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" height="40px" alt="html"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" height="40px" alt="css"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="40px" height="40px" alt="js"></a>
-  <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40px" height="40px" alt="git"></a>
+  <a href="https://git-scm.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40px" height="40px" alt="git"></a>
+  <a href="https://www.cypress.io/"><img src="https://github.com/devicons/devicon/blob/master/icons/cypressio/cypressio-original.svg" width="40px" height="40px" alt="cypress"></a>
+  <a href="https://jestjs.io/"><img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" width="40px" height="40px" alt="jest"></a>
   <a href="https://getbootstrap.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40px" height="40px" alt="bootstrap"/></a>
 <!--   <a href="https://tailwindcss.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40px" height="40px" alt="tailwind"/></a> -->
   <a href="https://tailwindcss.com/"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" width="40px" height="40px" alt="tailwind"/></a>

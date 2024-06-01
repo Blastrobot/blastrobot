@@ -23,6 +23,7 @@
   <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px" height="40px" alt="python"/></a>
 <!--   <img src="https://icongr.am/simple/flask.svg?size=40&color=cd8fff&colored=false" alt="flask"/> -->
   <a href="https://flask.palletsprojects.com/en/2.3.x/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40px" height="40px"/></a>
+  <a href="https://www.postgresql.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="40px" height="40px" alt="postgresql"></a>
   <a href="https://angular.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40px" height="40px" alt="angular"/></a>
   <a href="https://www.typescriptlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40px" height="40px" alt="typescript"/></a>
   <a href="https://rxjs.dev/"><img src="https://github.com/devicons/devicon/blob/master/icons/rxjs/rxjs-original.svg" width="40px" height="40px" alt="rxjs"></a>
@@ -32,7 +33,8 @@
 <div align=center>
   <a href="https://nodejs.org/en"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40px" height="40px" alt="nodejs"/></a>
   <a href="https://expressjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40px" height="40px" alt="express"/></a>
-  <a href="https://www.mongodb.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="40px" height="40px" alt="mongodb"></a> 
+  <a href="https://www.java.com/en/"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40px" height="40px" alt="java"></a>
+  <a href="https://www.mongodb.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="40px" height="40px" alt="mongodb"></a>
   <a href="https://nextjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40px" height="40px" alt="nextjs"/></a>
   <a href="https://soliditylang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="40px" height="40px" alt="solidity"/></a>
 </div>

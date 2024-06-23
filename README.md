@@ -44,7 +44,7 @@
 <a href="mailto:carlosjcv94@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
 
 ### Vibing to:
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=1171882181&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=1171882181&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&reversal=true&section=footer&color=0:d173c7,100:5545f9">
 </div>

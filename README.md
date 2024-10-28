@@ -2,11 +2,44 @@
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=100&color=C6D4FF&background=FFFFFF00&center=true&multiline=true&width=1000&height=100&lines=Carlos+Vilca;Software+Development;Welcome!+Willkommen!+%C2%A1Bienvenido!🥳)](https://git.io/typing-svg)
 
+```                                    
+                                                      @@@@@@@@@@@@@@@@@@@                               
+                                                  @@@@%*===+===========*%@@@@                           
+                                               %@@@*=++===========+====+++=*@@@=                        
+                                             @@@*+++===+++============+===++=+#@@@                      
+                                           @@@++++==========================++++*@@@                    
+                                  =%#%@@@@@@+++++=====---=------------=--====+=+++*@@@@@@%%%-           
+                                @%@@@@@@@*+++++=======------------------=======+=++++#@@@@@@@%@         
+                              %@#@@=.  #=++++=========------:-----------========+++++++*   +@@#@=       
+                             .@-@@  . +@+++++===========---::-::::::----=========++++++@= .  @@-@       
+                             @+:@. .:.@#+*+++#@@@@@@@@@@%*=---------=*%@@@@@@@@@@#+++*+%@.:. :@.#@      
+                             @-:@ .::.@#**%@@#          -%@@%+===*%@@%:          %@@%**#@.::  @.+@      
+                             %% @  ..-@*#@@   -+*##**+++-.  *@@@@@=  .-+++**##*+-.  @@#*@:.: :@ @=      
+                              @.@@   @%#@  .--===.   .:==++=.  *  :=+===:    .===--. .@#%@   @@.@       
+                               @.@  @%*@  .::::.  @@@@ .===+++===+++==-..@@@@  .::::.  @*@@ :@.@        
+                               -@:@@@+%# :::::: .@   .@ .------=------. @    @  :::::: %%+@@@:@.        
+                                 @*%++@  ::::.: @@@@@@@@ -:...   ...:- @@@@@@@@ :..::: .@++@*@          
+                                  @*++@  :::::: @@####@@ :::.:...:.::- @@####@@ ::::.: .@++#@           
+                                  @+++#% ...:.: +@@:-@@............... -@@-:@@: :..... @#+++@           
+                                  @++++%@  ....   @@@@. .-=..     ..=-. .@@@@  .....  @%++++@           
+                                  @*++++#@%   ...      .##*-@@:-:@@=*%*       ..    @@#++++#@           
+                                  @@+*++++#@@@     ...:.@=. @@@ @@@ .+@.:...     @@@#+=++*+@@           
+                                   @%+*++++++#@@@@. .....::.   .   .::..... :@@@@#++++++++%@            
+                                   @@%*++++++++++#@ :-.                 .-: @*++++++++*+*%@+            
+                                    @@@+++*++++++*@ ::.@@@@@@@@@@@@@@@@@.:: @*++++++*+++@@%             
+                                      @@%++++++++## :.  @@@@@@@@@@@@@@@  :: @*++++++++@@@               
+                                       =@@@#+++++#* --=.   @@@@@@@@@   .=-- %*+++++#@@@.                
+                                          @@@@@@### :--=+=.         .++=--: %*#@@@@@@                   
+                                              @@@@@@@@@@*=+*#%%%%%#*+=*@@@@@@@@@@                       
+                                                       @@@@@*:...:*@@@@@                                
+                                                           +@@@@@@@-
+```
+
 <div align=center>
 
 **Proactive Software Developer**, coming from Tenerife 🏝 based in Berlin at the moment.
 
- <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWRzYmZsOWpsdG92YTd1dzB1MDQzMzIyMWI4MHU0em9ldnN4ajQ5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="320" height="260">
+<!-- <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWRzYmZsOWpsdG92YTd1dzB1MDQzMzIyMWI4MHU0em9ldnN4ajQ5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="320" height="260"> -->
 <p>Technologies I've been working with:</p>
 <div align=center>
   <a href="https://html.spec.whatwg.org/multipage/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" height="40px" alt="html"/></a>

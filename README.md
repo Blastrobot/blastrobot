@@ -1,6 +1,7 @@
-<img src="Rainbow.gif" width="100%">
+<!-- <img src="Rainbow.gif" width="100%"> -->
+<img src="https://capsule-render.vercel.app/api?type=waving&reversal=true&section=header&color=0:d173c7,100:5545f9" width="100%">
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=100&color=C6D4FF&background=FFFFFF00&center=true&multiline=true&width=1000&height=100&lines=Carlos+Vilca;Software+Development;Welcome!+Willkommen!+%C2%A1Bienvenido!🥳)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=100&color=C6D4FF&background=FFFFFF00&center=true&multiline=true&width=1000&height=100&lines=Carlos+Cabrera+Vilca;Software+Developer;Welcome!+Willkommen!+%C2%A1Bienvenido!🥳)](https://git.io/typing-svg)
 
 ```                                    
                                                     @@@@@@@@@@@@@@@@@@@                               
@@ -40,6 +41,7 @@
 **Proactive Software Developer**, coming from Tenerife 🏝 based in Berlin at the moment.
 
 <!-- <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWRzYmZsOWpsdG92YTd1dzB1MDQzMzIyMWI4MHU0em9ldnN4ajQ5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="320" height="260"> -->
+
 <p>Technologies I've been working with:</p>
 <div align=center>
   <a href="https://html.spec.whatwg.org/multipage/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" height="40px" alt="html"/></a>
@@ -76,11 +78,18 @@
 
 ### Connect with me:
 <a href="https://linkedin.com/in/carlos-vilca-software-developer" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:carlosjcv94@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
+<a href="mailto:c.cabreravilca@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
 
 ### Vibing to:
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=1171882181&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false">
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=1171882181&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&reversal=true&section=footer&color=0:d173c7,100:5545f9">
+<br>
+
+<img src="https://img.icons8.com/?size=100&id=oggXV4wV-tqf&format=png&color=000000">
+<img src="https://img.icons8.com/?size=100&id=37762&format=png&color=FFFFFF">
+<img src="https://img.icons8.com/?size=100&id=r3B0yvsHZix4&format=png&color=000000">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&reversal=true&section=footer&color=0:d173c7,100:5545f9" width="100%">
 </div>
+
 

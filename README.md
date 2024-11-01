@@ -1,15 +1,9 @@
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&reversal=true&section=header&color=0:d173c7,100:5545f9" width="100%"> -->
 
-<div align="center">
-  <br>
-  <a href="/name-with-svg.svg">
-     <img alt=":)" height="200" src="/name-with-svg.svg" width="100%" />
-  </a>
-  <br>
-</div>
-
-<!-- ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=100&color=C6D4FF&background=FFFFFF00&center=true&multiline=true&width=1000&height=100&lines=Carlos+Cabrera+Vilca;Software+Developer;Welcome!+Willkommen!+%C2%A1Bienvenido!🥳)](https://git.io/typing-svg) -->
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=100&color=C6D4FF&background=FFFFFF00&center=true&multiline=true&width=1000&height=75&lines=+%C2%A1Bienvenido!+Welcome!+Willkommen!🥳)](https://git.io/typing-svg)
+
+<img alt=":)" height="200" src="/name-with-svg.svg" width="100%" />
+<!-- ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=100&color=C6D4FF&background=FFFFFF00&center=true&multiline=true&width=1000&height=100&lines=Carlos+Cabrera+Vilca;Software+Developer;Welcome!+Willkommen!+%C2%A1Bienvenido!🥳)](https://git.io/typing-svg) -->
 
 ```                                    
                                                     @@@@@@@@@@@@@@@@@@@                               

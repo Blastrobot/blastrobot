@@ -82,12 +82,11 @@
 
 ### Vibing to:
 <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=1171882181&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false">
-
 <br>
-
 <!-- <img src="https://img.icons8.com/?size=100&id=oggXV4wV-tqf&format=png&color=000000"> -->
 <!-- <img src="https://img.icons8.com/?size=100&id=37762&format=png&color=FFFFFF90"> -->
 <!-- <img src="https://img.icons8.com/?size=100&id=r3B0yvsHZix4&format=png&color=000000"> -->
+
 <br>
 <img src="https://img.icons8.com/?size=100&id=56592&format=png&color=FFFFFF90">
 <img src="https://img.icons8.com/?size=100&id=37762&format=png&color=FFFFFF90">

@@ -85,9 +85,13 @@
 
 <br>
 
-<img src="https://img.icons8.com/?size=100&id=oggXV4wV-tqf&format=png&color=000000">
-<img src="https://img.icons8.com/?size=100&id=37762&format=png&color=FFFFFF">
-<img src="https://img.icons8.com/?size=100&id=r3B0yvsHZix4&format=png&color=000000">
+<!-- <img src="https://img.icons8.com/?size=100&id=oggXV4wV-tqf&format=png&color=000000"> -->
+<!-- <img src="https://img.icons8.com/?size=100&id=37762&format=png&color=FFFFFF90"> -->
+<!-- <img src="https://img.icons8.com/?size=100&id=r3B0yvsHZix4&format=png&color=000000"> -->
+<br>
+<img src="https://img.icons8.com/?size=100&id=56592&format=png&color=FFFFFF90">
+<img src="https://img.icons8.com/?size=100&id=37762&format=png&color=FFFFFF90">
+<img src="https://img.icons8.com/?size=100&id=63380&format=png&color=FFFFFF90">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&reversal=true&section=footer&color=0:d173c7,100:5545f9" width="100%">
 </div>
